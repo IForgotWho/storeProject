@@ -104,3 +104,7 @@ nav li {
     min-width: 200px;
     text-align: center;
 }
+/*fake style*/
+.fake {
+    color:white;
+}
